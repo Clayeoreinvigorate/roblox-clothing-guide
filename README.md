@@ -1,6 +1,6 @@
 # 👕 Roblox Clothing Guide
 
-> A simple, beginner-friendly guide for working with Roblox shirts, pants, and clothing items in 2026.
+> A simple, beginner-friendly guide for working with Roblox shirts, pants, clothing templates, and outfit-related assets in 2026.
 
 ---
 
@@ -24,7 +24,7 @@ This tutorial uses:
 
 ## 🚀 Step-by-Step Guide
 
-The workflow below is based on the tutorial and is intended for Roblox clothing items that you own or are authorized to use.
+The workflow below is intended for Roblox clothing items and assets that you own or are authorized to use.
 
 ### 1. 👕 Open the Roblox clothing page
 
@@ -32,15 +32,9 @@ Open the Roblox shirt or pants page for the item you are authorized to use.
 
 ### 2. 🖱️ Open Developer Tools
 
-Right-click on the page.
+Right-click on the page and choose **Inspect**.
 
-Choose:
-
-**Inspect**
-
-Then open the:
-
-**Network** tab.
+Then open the **Network** tab.
 
 ### 3. 🔄 Refresh the page
 
@@ -87,7 +81,7 @@ Paste the required information and follow the instructions shown by the website.
 
 ---
 
-## ❓ Troubleshooting
+## 🧰 Troubleshooting
 
 <details>
 <summary><strong>🔎 I can't find the Network tab</strong></summary>
@@ -123,6 +117,16 @@ Make sure the item is still available and that you have permission to use or pro
 
 ---
 
+## 🎓 What You'll Find Here
+
+This guide covers common Roblox clothing-related terms and workflows, including:
+
+`Roblox` · `Roblox Studio` · `Roblox Clothing` · `Shirts` · `Pants` · `Shirt Template` · `Pants Template` · `Clothing Template` · `Roblox Outfit` · `Avatar` · `Avatar Clothing` · `Classic Shirt` · `Classic Pants` · `Roblox Catalog` · `Roblox Avatar` · `Roblox Tutorial` · `Roblox Guide` · `Developer Tools` · `Network Panel`
+
+These keywords describe the subject of the guide and are included to make the README easier to understand and discover.
+
+---
+
 ## 🔐 Responsible Use
 
 This guide is intended for educational purposes and for Roblox clothing items and assets that you **own or are authorized to use**.
@@ -135,20 +139,6 @@ Please respect:
 - asset permissions
 
 > ⚠️ Do not use this guide to access, copy, or redistribute clothing or other assets without permission.
-
----
-
-## 🎓 What You'll Learn
-
-By following this guide, you can learn the basics of:
-
-- 🧩 Browser Developer Tools
-- 🌐 the Network panel
-- 📋 copying network request information
-- 👕 Roblox clothing workflows
-- 🔐 basic online safety when using third-party websites
-
-No advanced programming knowledge is required.
 
 ---
 
